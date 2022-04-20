@@ -2100,7 +2100,7 @@ export const bigTable: { [keyword: string]: string } = {
   ':region:za': '🇿🇦',
   ':region:zm': '🇿🇲',
   ':region:zw': '🇿🇼',
-  
+
   '--': '—',
   Check: '✔',
   ballotx: '✗',

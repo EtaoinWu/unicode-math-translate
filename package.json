@@ -1,6 +1,6 @@
 {
   "name": "unicode-math-translate",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Translate math shortcuts to unicode",
   "main": "out/index.js",
   "types": "out/index.d.js",
